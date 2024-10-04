@@ -12,7 +12,7 @@ A **HTML Developer**  and an advocate for building **responsive**, **accessible*
  1. [Classboard](https://superhardalgebraproblems.github.io/)
  2. [Classboard-Teacher](https://classboard-teacher.github.io)
  3. [Free Gaza Vlogs](https://free-gaza-vlogs.github.io)
- 4. [DeenMaster](https://scratch.mit.edu/deenmaster-offical)
+ 4. [DeenMaster](https://scratch.mit.edu/users/DeenMaster-Offical/)
  5. [Blog for all developers](https://developers-home.vercel.app/)
  6. [Nasr Gaming Studio](https://www.canva.com/design/DAGSn0O9vFQ/k_mjfH-fhIi3Yeg6WOVhrQ/watch?utm_content=DAGSn0O9vFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
