@@ -2,7 +2,7 @@
 
 A **HTML Developer**  and an advocate for building **responsive**, **accessible** and **beautiful** digital experiences for the web 
 - Open to project collaborations
-- You can reach me through: <a href="https://forms.gle/VcZ35Gyw8uoQF1Du7" title="Portfolio"><img alt="Gform"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:Riyadbahaby@yahoo.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> /></a> 
+- You can reach me through: <a href="https://forms.gle/VcZ35Gyw8uoQF1Du7" title="Portfolio"><img alt="Gform"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/> </a> <a href="mailto:Riyadbahaby@yahoo.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> /></a> 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
