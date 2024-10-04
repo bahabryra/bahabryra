@@ -9,7 +9,7 @@ A **HTML Developer**  and an advocate for building **responsive**, **accessible*
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Classboard](https:/superhardalgebraproblems.github.io/)
+ 1. [Classboard](https://superhardalgebraproblems.github.io/)
  2. [Classboard-Teacher](https://classboard-teacher.github.io)
  3. [Free Gaza Vlogs](https://free-gaza-vlogs.github.io)
  4. [DeenMaster](https://scratch.mit.edu/deenmaster-offical)
