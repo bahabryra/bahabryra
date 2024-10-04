@@ -9,25 +9,13 @@ A **HTML Developer**  and an advocate for building **responsive**, **accessible*
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Vet management system](https://vet-management-system.vercel.app/)
- 2. [Movies website](https://react-movies-lac.vercel.app/)
- 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
+ 1. [Classboard](https:/superhardalgebraproblems.github.io/)
+ 2. [Classboard-Teacher](https://classboard-teacher.github.io)
+ 3. [Free Gaza Vlogs](https://free-gaza-vlogs.github.io)
+ 4. [DeenMaster](https://scratch.mit.edu/deenmaster-offical)
  5. [Blog for all developers](https://developers-home.vercel.app/)
- 6. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
- 7. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
- 8. [Expenses chart component](https://johnmwendwa.github.io/expenses-chart-component/)
- 9. [Advice generator app](https://johnmwendwa.github.io/advice-generator-app/)
- 10. [Huddle Landing page](https://johnmwendwa.github.io/huddle-landing-page/)
- 11. [Huddle Landing page with alternating feature blocks](https://johnmwendwa.github.io/huddle-landing-page-with-alternating-feature-blocks/)
- 12. [Fylo Landing Page](https://johnmwendwa.github.io/fylo-landing-page-with-two-column-layout/)
- 13. [Clipboard Landing Page](https://johnmwendwa.github.io/clipboard-landing-page/)
- 14. [Pricing component with toggle](https://johnmwendwa.github.io/pricing-component-with-toggle)
- 15. [Blogr Landing Page](https://johnmwendwa.github.io/blogr-landing-page/)
- 16. [Social proof section](https://johnmwendwa.github.io/social-proof-section/)
- 17. [Blog preview card](https://johnmwendwa.github.io/blog-preview-card)
- 18. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
- 19. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
+ 6. [Nasr Gaming Studio](https://www.canva.com/design/DAGSn0O9vFQ/k_mjfH-fhIi3Yeg6WOVhrQ/watch?utm_content=DAGSn0O9vFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
